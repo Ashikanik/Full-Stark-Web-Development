@@ -109,3 +109,11 @@ section{
      font-family: 'Times New Roman', Times, serif;
      font-size: 20px;
  }
+ .banner{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: bottom;
+    background-size: 200px; 
+    background-position: 93% 93%; 
+ }
