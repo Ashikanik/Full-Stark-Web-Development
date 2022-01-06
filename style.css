@@ -103,7 +103,9 @@ section{
       text-align: center;
       padding-top: 0.5%;
       padding-bottom: 0.5%;
-      background-color: navajowhite;
+      background-color: rgb(241, 149, 28);
+      border: rgb(10, 10, 197) 3px solid;
+      box-shadow: 5px 1px 5px 2px blue;
   }
  p{
      font-family: 'Times New Roman', Times, serif;
